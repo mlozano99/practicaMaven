@@ -1,9 +1,10 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.upv.ufasu</groupId>
 	<artifactId>weather-multimodule</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>weather-multimodule application</name>
 	<url>http://www.upv.es</url>
 	<description>A multimodule application</description>
@@ -164,7 +165,6 @@
 		<connection>scm:git:git@github.com:mlozano99/practicaMaven.git</connection>
 		<url>scm:git:git@github.com:mlozano99/practicaMaven.git</url>
 		<developerConnection>scm:git:git@github.com:mlozano99/practicaMaven.git</developerConnection>		
-    <tag>weather-multimodule-1.0.0</tag>
   </scm>
   
 </project>
